@@ -1,11 +1,10 @@
 ---
 name: experimentum-crucis
-description: Design crucial experiments that definitively test hypotheses by isolating
-  variables, verifying intrinsic properties, and producing unambiguous results.
+description: Design crucial experiments that definitively test hypotheses by isolating variables, verifying intrinsic properties, and producing unambiguous results.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - experimentum-crucis
 - transformation
