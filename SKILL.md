@@ -4,7 +4,7 @@ description: Design crucial experiments that definitively test hypotheses by iso
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3959
+  version: 1.0.3960
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - experimentum-crucis
